@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Google Search Suite">
+    <test name="Google Search Test">
+        <classes>
+            <class name="com.kun.tests.GoogleSearchPageTest"/>
+        </classes>
+    </test>
+</suite>
